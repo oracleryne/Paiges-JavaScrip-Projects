@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+   <p>
+   <h1>One Page Website!</h1>
+   </p>
+   <body>
+   <p><a href="https://www.youtube.com/watch?v=ciRftriyejM">This is my favourite song by my favourite band!</p>
+   </body>
+   <body>
+   <img src="HAN_QUOKKA.webp">
+   </body>
+   <body>
+   <form action="" method="get">
+   First Name: <input type="text" name="First_Name"><br>
+   Last Name: <input type="text" name="Last_Name"><br>
+   <input type="submit" value="Submit">
+   </form>
+   </body>
+   <body>
+   <nav>
+   <body>
+   <footer>
+   <h2>Goodbye!</h2>
+   </footer>
+   </body>
+   </html>
